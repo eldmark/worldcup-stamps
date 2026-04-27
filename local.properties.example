@@ -1,0 +1,7 @@
+# Copiar a local.properties y reemplazar con tu proyecto (Dashboard → Settings → API).
+# Para compilar la app Android, define también el SDK (Android Studio lo rellena al abrir el proyecto):
+# sdk.dir=/home/tuusuario/Android/Sdk
+
+supabase.url=https://YOUR_PROJECT_REF.supabase.co
+supabase.anon.key=YOUR_SUPABASE_ANON_KEY
+supabase.project.ref=YOUR_PROJECT_REF
